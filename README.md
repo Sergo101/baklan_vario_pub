@@ -1,4 +1,5 @@
-# baklan_vario_pub
+# Baklan Vario public page
+# Вариометр Баклан
 BLE vario description &amp; software releases
 
 # Firmware update
