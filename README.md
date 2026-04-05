@@ -1,5 +1,6 @@
 # Baklan Vario public page
 # Вариометр Баклан
+Software and hardware support: baklan.vario@gmail.com<br>
 BLE vario description &amp; software releases
 
 # Firmware update
